@@ -1,0 +1,826 @@
+Model loaded in 7.88s
+WOW!
+tensor([[2],
+        [2],
+        [2]])
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+HIIIIIIIIIIIIIIIIi
+None
+WOOOOOOOOOOOOOOOOOOW
+tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], dtype=torch.int32)
+BYEEEEEEEEEEEEEEEEE
+---------------------------------Summarization took 7.92s at -797.5% reduction---------------------------------
+Hello There! General Obi-Wan Kenobi here to welcome you to our blog. We're happy to have you on our guest list for this week's episode of Star Wars: The Last Jedi. Read more here: http://www.dailymail.co.uk/news/features/2013/01/29/star-wars-the-last-nemo-episode-3-premiere-of-the.html#storylink=cpy. I'm sorry, this article has been updated to reflect that.
