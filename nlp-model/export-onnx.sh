@@ -1,0 +1,1 @@
+python onnx_export.py --pipeline summarization --model sshleifer/distilbart-cnn-6-6 --tokenizer sshleifer/distilbart-cnn-6-6 --framework pt --check-loading --opset 12 onnx-model/distilbart-cnn-6-6.onnx
