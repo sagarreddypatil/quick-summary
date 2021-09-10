@@ -2,6 +2,8 @@
 
 This is a monorepo containing all the code for a browser extension to generate summaries of any article with the click of a button.
 
+Quick Note: This is a continuation of sagarreddypatil/summarizer-extension. The older repository is kept frozen as it was used for a Hackathon submission.
+
 ## Build Instructions
 
 ### Chrome Extension
