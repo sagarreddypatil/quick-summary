@@ -4,6 +4,13 @@ This is a monorepo containing all the code for a browser extension to generate s
 
 Quick Note: This is a continuation of sagarreddypatil/summarizer-extension. The older repository is kept frozen as it was used for a Hackathon submission.
 
+This project was made as a part of HackJPS. [Here is the DevPost page for the project](https://devpost.com/software/summarizer-extension).
+
+And here's a quick demo:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TJP5E46Aa1I
+" target="_blank"><img src="http://img.youtube.com/vi/TJP5E46Aa1I/0.jpg" 
+alt="Demo Video" width="240" height="180" border="10" /></a>
+
 ## Build Instructions
 
 ### Chrome Extension
