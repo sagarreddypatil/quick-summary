@@ -7,9 +7,10 @@ Quick Note: This is a continuation of sagarreddypatil/summarizer-extension. The 
 This project was made as a part of HackJPS. [Here is the DevPost page for the project](https://devpost.com/software/summarizer-extension).
 
 And here's a quick demo:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TJP5E46Aa1I
 " target="_blank"><img src="http://img.youtube.com/vi/TJP5E46Aa1I/0.jpg" 
-alt="Demo Video" width="240" height="180" border="10" /></a>
+alt="Demo Video" width="640" height="480" border="10" /></a>
 
 ## Build Instructions
 
